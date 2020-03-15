@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PsychologicalConsultationPlatform:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/PsychologicalConsultationPlatform</output-path>
+    <root id="archive" name="PsychologicalConsultationPlatform_war.war">
+      <element id="artifact" artifact-name="PsychologicalConsultationPlatform:war exploded" />
+    </root>
+  </artifact>
+</component>

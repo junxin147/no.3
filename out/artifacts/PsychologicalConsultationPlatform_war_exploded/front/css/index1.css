@@ -1,0 +1,36 @@
+.text_box{
+    border: #ccc solid 1px;
+    border-top: none;
+    min-height: 369px;
+    background-color: #f0f0f0;
+}
+.text_box>div{
+    margin:0 30px;
+    padding:30px 0;
+}
+.text_box>div>div{
+    height: 46px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.text_box>div>div i{
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+    margin:12px;
+    position: absolute;
+}
+.text_box>div>div input{
+    width: 276px;
+    height: 44px;
+    line-height: 44px;
+    background-color: #f5f5f5;
+    font-size: 16px;
+    font-family: "微软雅黑";
+    color: #333;
+    border: #ccc solid 1px;
+    text-indent: 44px;
+}
+.text_box input:focus{
+    border: #f00 solid 1px;
+}
